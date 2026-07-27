@@ -44,7 +44,7 @@ primepos-site-bootstrap/
 ├── index.html
 ├── css/custom.css
 ├── js/
-│   ├── data.js       ← all guide content lives here
+│   ├── data.js       
 │   ├── icons.js
 │   ├── app.js
 │   └── theme.js
@@ -52,8 +52,7 @@ primepos-site-bootstrap/
 └── EDITING_GUIDE.md   ← how to add content, screenshots, or new pages
 ```
 
-For instructions on editing content, adding screenshots, or adding a
-new topic or module, see **[EDITING_GUIDE.md](./EDITING_GUIDE.md)**.
+
 
 ## About
 
