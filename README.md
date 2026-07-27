@@ -49,12 +49,4 @@ primepos-site-bootstrap/
 │   ├── app.js
 │   └── theme.js
 ├── assets/screenshots/
-└── EDITING_GUIDE.md   ← how to add content, screenshots, or new pages
-```
 
-
-
-## About
-
-Maintained by the PrimePOS team. Built and refined collaboratively with
-Claude across multiple rounds of content and design feedback.
