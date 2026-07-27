@@ -127,6 +127,7 @@ const DOCS = [
         type: "steps",
         nav: "Items/Products  &gt;  Stock Conversion",
         intro: "Stock Conversion is used when an item is sold in two different forms — for example a box of milk and an individual packet of milk — by converting stock from a parent item into smaller child items.",
+        noScreenshot: true,
         content: [
           { title: "Open the item list", desc: "Go to Items/Products and open Item List." },
           { title: "Open the item profile", desc: "On the parent item's Action dropdown, select Item Profile." },
